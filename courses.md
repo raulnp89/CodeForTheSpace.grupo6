@@ -26,4 +26,12 @@ Existe diferentes modalidades que puedes cursar:
 - Frontend
 - Data science
 
+<<<<<<< HEAD
+<<<<<<< HEAD
 Esto es una modificaciónX2
+=======
+Esto es una modificacionX3
+>>>>>>> feat-login
+=======
+Esto es una modificaciónX2
+>>>>>>> 2f34227cc3392a8aac1a11c8a9d7266a928ba4ca

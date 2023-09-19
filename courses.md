@@ -26,4 +26,4 @@ Existe diferentes modalidades que puedes cursar:
 - Frontend
 - Data science
 
-Esto es una modificación
+Esto es una modificaciónX2
